@@ -2,5 +2,5 @@
 Modulos de farmacia proyecto Electivo1
 
 
-![alt text](https://raw.githubusercontent.com/jcorpus/Farmacia/master/Modulo_almacen/site_media/img/login.PNG)
+![alt text](https://raw.githubusercontent.com/jcorpus/activos/master/site_media/img/activo.PNG)
 
